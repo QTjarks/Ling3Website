@@ -6,7 +6,9 @@ background-color: green;
   background-color: #1c1c1c !important;
 }
 
-.carousel-inner, .carousel-item, .carousel-item .active {
+.carousel-inner,
+.carousel-item,
+.carousel-item .active {
   height: 40vh;
 }
 
@@ -53,7 +55,6 @@ background-color: green;
 
 ul {
   list-style-type: none;
-
 }
 
 .footer-link {
